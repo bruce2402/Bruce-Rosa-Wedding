@@ -3,10 +3,22 @@
     <title>Bruce &amp; Rosa&#x27;s Wedding 0704</title>
     <link href="https://bruce2402.github.io/Bruce-Rosa-Wedding/feed.xml" rel="self" />
     <link href="https://bruce2402.github.io/Bruce-Rosa-Wedding" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2020-05-17T23:38:08+08:00</updated>
     <author>
         <name>Bruce &amp; Rosa</name>
     </author>
     <id>https://bruce2402.github.io/Bruce-Rosa-Wedding</id>
 
+    <entry>
+        <title>Welcome to Bruce &amp; Rosa&#x27;s Wedding</title>
+        <author>
+            <name>Bruce &amp; Rosa</name>
+        </author>
+        <link href="https://bruce2402.github.io/Bruce-Rosa-Wedding/welcome-to-bruce-and-rosas-wedding.html"/>
+        <id>https://bruce2402.github.io/Bruce-Rosa-Wedding/welcome-to-bruce-and-rosas-wedding.html</id>
+
+        <updated>2020-05-17T23:38:04+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
